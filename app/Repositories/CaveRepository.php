@@ -2,7 +2,7 @@
 
 namespace App\Repositories;
 
-use App\Services\CaveRepositoryInterface;
+use App\Repositories\CaveRepositoryInterface;
 use App\Models\Cave;
 
 class CaveRepository implements CaveRepositoryInterface
